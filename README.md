@@ -50,8 +50,9 @@ scan it by your whatsapp by
 2. click on 3 dots on right side linked devices <p align="right"><a<img src="https://telegra.ph/file/c8d87e9f952182c662446.jpg" width="300"></a></p> 
 
 
-then click on link a device a qr code scanner will appear and scan the pc screen by it 
-<p align="left"><a<img src="https://telegra.ph/file/94c389c9573e7a5863a97.jpg" width="300"></a></p>
+
+then click on link a device a qr code scanner will appear and scan the pc screen by it <p align="left"><a<img src="https://telegra.ph/file/94c389c9573e7a5863a97.jpg" width="300"></a></p>
+ 
 
 now string is ready paste it on heroku or railway required vars 
 
@@ -67,15 +68,19 @@ rest is similar process [ note - wait the side load after or before you paste th
 
 TO MAKE DEPLOYMENT MORE EASIER 🙏❤️
 
-#SUPPORT 
+### SUPPORT :
 
 [CLICK ON ME FOR UPDATES CHANNEL ](https://t.me/whatsapp_userbot_support)
-[CLICK ON ME TO JOIN WHATSAPP USERBOT SUPPORT GROUP ON TELEGRAM ](https://t.me/whatsapp_userbot_support)
-<p align="right"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="200"></a></p> 
 
-#CREDITS
+[CLICK ON ME TO JOIN WHATSAPP USERBOT SUPPORT GROUP ON TELEGRAM ](https://t.me/whatsapp_userbot_support)
+
+<p align="center"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="200"></a></p> 
+
+### CREDITS :
 
 DEVELOPER - [PARV](t.me/your_handler)
+
+
 whatsbot v 1.6 
 
 
