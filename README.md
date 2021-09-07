@@ -68,6 +68,12 @@ rest is similar process [ note - wait the side load after or before you paste th
 
 TO MAKE DEPLOYMENT MORE EASIER 🙏❤️
 
+
+### commands :
+
+[click here for supported commands](https://github.com/TheWhatsBot/WhatsBot/wiki/Commands) note handler will be !
+
+
 ### SUPPORT :
 
 <p align="left"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="500"></a></p> 
