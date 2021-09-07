@@ -70,18 +70,19 @@ TO MAKE DEPLOYMENT MORE EASIER 🙏❤️
 
 ### SUPPORT :
 
+<p align="center"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="200"></a></p> 
+
+
 [CLICK ON ME FOR UPDATES CHANNEL ](https://t.me/whatsapp_userbot_support)
 
 [CLICK ON ME TO JOIN WHATSAPP USERBOT SUPPORT GROUP ON TELEGRAM ](https://t.me/whatsapp_userbot_support)
-
-<p align="center"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="200"></a></p> 
+ 
 
 ### CREDITS :
 
-DEVELOPER - [PARV](t.me/your_handler)
+DEVELOPER - [PARV](https://t.me/your_handler)
 
 
-whatsbot v 1.6
 
 
 
