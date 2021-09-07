@@ -81,7 +81,7 @@ TO MAKE DEPLOYMENT MORE EASIER 🙏❤️
 DEVELOPER - [PARV](t.me/your_handler)
 
 
-whatsbot v 1.6 
+whatsbot v 1.6
 
 
 
