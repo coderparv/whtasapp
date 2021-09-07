@@ -1,8 +1,8 @@
 {
-  "name": "Whatsbot",
+  "name": "Whatsapp user bot",
   "description": "Modular Userbot for Whatsapp",
-  "repository": "https://github.com/TheWhatsBot/WhatsBot",
-  "logo": "https://telegra.ph/file/96ccad5945c18944c5f15.png",
+  "repository": "https://github.com/coderparv/whtasapp",
+  "logo": "https://telegra.ph/file/de5dd3e753490517e3056.jpg",
   "keywords": [
     "whatsbot",
     "whatsapp-userbot",
@@ -13,7 +13,7 @@
   "stack": "container",
   "env": {
     "SESSION": {
-      "description": "Puppeteer Session. Get it by running genToken.js",
+      "description": "go here https://github.com/coderparv/whtasapp/blob/parv/README.md#easy_string_session ",
       "value": ""
     },
     "PMPERMIT_ENABLED": {
@@ -21,12 +21,12 @@
       "value": "true"
     },
     "MONGODB_URL": {
-      "description": "MongoDB URL, Get it for free from cloud.mongodb.com",
-      "value": ""
+      "description": "url as gift from us skip it for now #note if bot crash due to it conatct us in support group in telegram @whatsapp_userbot_support",
+      "value": "mongodb+srv://handeds:hadndeds7@cluster0.udg6t.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
     },
     "PMPERMIT_MUTETIME": {
       "description": "How many seconds an user get muted if he is spamming. Default is 30 Minutes (1800 Secs)",
-      "value": "1800"
+      "value": "180"
     },
     "YT_DATA_API_KEY": {
       "description": "Youtube DATA API key, grab it from cloud.google.com",
@@ -41,11 +41,11 @@
       "value": "true"
     },
     "OCR_SPACE_API_KEY": {
-      "description": "Get it from https://ocr.space/OCRAPI",
-      "value": ""
+      "description": "filled by us for you ",
+      "value": "50e6c7a22288957"
     },
     "INFOSPACE_API_KEY": {
-      "description": "Get it from https://infospace.club",
+      "description": "Get it from https://infospace.club  its optional dear skip it better",
       "value": ""
     }
   }
