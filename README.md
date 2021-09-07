@@ -70,7 +70,7 @@ TO MAKE DEPLOYMENT MORE EASIER 🙏❤️
 
 ### SUPPORT :
 
-<p align="center"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="200"></a></p> 
+<p align="left"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="500"></a></p> 
 
 
 [CLICK ON ME FOR UPDATES CHANNEL ](https://t.me/whatsapp_userbot_support)
