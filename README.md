@@ -57,7 +57,7 @@ then click on link a device a qr code scanner will appear and scan the pc screen
 now string is ready paste it on heroku or railway required vars 
 
 
-🔗CREATING STRING SESSION ON mobile - 
+🔗🔆CREATING STRING SESSION ON mobile - 
 
 go to https://ssh.cloud.google.com/  and paste [ docker run -p 8080:8080  jeeetpaul/whatsbot-session-lite  ]  copy the text under brackets only dont copy the brackets 
 
@@ -66,27 +66,27 @@ rest is similar process [ note - wait the side load after or before you paste th
 
 🥳REST OF VARS WILL BE AUTOFILLED INCLUDED MONGO DB URL🥳
 
-TO MAKE DEPLOYMENT MORE EASIER 🙏❤️
+TO MAKE DEPLOYMENT MORE EASIER 🙏❤️ 🔆
 
 
-### commands :
+### 🔆commands :
 
-[click here for supported commands](https://github.com/TheWhatsBot/WhatsBot/wiki/Commands) note handler will be !
+[click here for supported commands](https://github.com/TheWhatsBot/WhatsBot/wiki/Commands) note handler will be !  🔆
 
 
-### SUPPORT :
+### 🔆SUPPORT :
 
 <p align="left"><a<img src="https://telegra.ph/file/de5dd3e753490517e3056.jpg" width="500"></a></p> 
 
 
 [CLICK ON ME FOR UPDATES CHANNEL ](https://t.me/whatsapp_userbot_support)
 
-[CLICK ON ME TO JOIN WHATSAPP USERBOT SUPPORT GROUP ON TELEGRAM ](https://t.me/whatsapp_userbot_support)
+[CLICK ON ME TO JOIN WHATSAPP USERBOT SUPPORT GROUP ON TELEGRAM ](https://t.me/whatsapp_userbot_support)  🔆
  
 
-### CREDITS :
+### 🔥CREDITS :
 
-DEVELOPER - [PARV](https://t.me/your_handler)
+DEVELOPER - [PARV](https://t.me/your_handler) 🔥
 
 
 
