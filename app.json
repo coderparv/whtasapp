@@ -30,7 +30,7 @@
     },
     "YT_DATA_API_KEY": {
       "description": "Youtube DATA API key, grab it from cloud.google.com",
-      "value": ""
+      "value": "eAIzaSyAor7iCMZArwM2TL4pht4C9f5TZdbE_eNQ"
     },
     "DEFAULT_TR_LANG": {
       "description": "Default Translation Language",
